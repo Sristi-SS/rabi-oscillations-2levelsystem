@@ -1,2 +1,2 @@
 # rabi-oscillations-2levelsystem
-visuals of the probability as state with 2 energy levels change with time
+visuals of how the probability of a state with 2 energy levels changes with time
